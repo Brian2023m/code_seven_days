@@ -14,8 +14,8 @@ g. Questions and answers.
 a. Building blocks of any coding language. e.g. C++
 b. Data types.
 c. Variables.
-d. Constancies.
-e. Statements, Comments, etc
+d. Constants.
+e. Statements, Expressions, Comments, etc
 f. Procedural programming.
 g. Questions and answers.
 
