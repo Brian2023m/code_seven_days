@@ -50,3 +50,14 @@ a. DIY Project 001.
 b. Practical Project 002.
 c. Practical Project 003
 d. Questions and answers.
+
+## Links:
+
+https://x.com/BrianBn25m
+
+https://a.co/d/0S1xHz7
+
+https://a.co/d/iivzWnm
+
+
+Enjoy.
